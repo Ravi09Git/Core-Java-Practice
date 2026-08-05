@@ -1,4 +1,4 @@
-# Core-Java-Practice
+# ☕ Core Java Practice Repository
 My Java learning journey with daily coding practice, interview programs, and concepts.
 # Core Java Practice
 
@@ -39,4 +39,9 @@ Welcome to my Core Java learning repository.
 - [ ] Exception Handling
 
 ---
+## 👨‍💻 Maintained By
+
+**Ravi Kumar**
+
+Aspiring Java Backend Developer
 ⭐ Daily updated as part of my Java Developer Journey.
