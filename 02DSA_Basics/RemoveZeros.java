@@ -2,7 +2,7 @@ import java.util.* ;
 public class RemoveZeros {
     public static int []shiftZero (int nums[]){
         int insertPos = 0 ;
-        for(int j = 1 ;j < nums.length ;j++){
+        for(int j = 0 ;j < nums.length ;j++){
             if(nums[j] != 0){
                 nums[insertPos] = nums[j];
                 insertPos++;
